@@ -1,0 +1,8 @@
+{
+    "alias": "tukecx-elfinder",
+    "name": "Elfinder",
+    "author": "Tukecx",
+    "description": "Integration Elfinder to Tukecx",
+    "namespace": "Tukecx\\Base\\Elfinder",
+    "autoload": "psr-4"
+}
